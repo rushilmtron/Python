@@ -1,4 +1,4 @@
-# this is a example of instance variable
+# this is a example of instance variable..
 
 class car:
 
